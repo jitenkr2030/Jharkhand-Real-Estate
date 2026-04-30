@@ -50,12 +50,12 @@ export function Footer() {
                 <Home className="w-6 h-6 text-white" />
               </div>
               <div>
-                <span className="text-xl font-bold text-white">Jharkhand</span>
+                  <span className="text-xl font-bold text-white">Baraik Brother</span>
                 <span className="text-xl font-bold text-primary-400">Property</span>
               </div>
             </Link>
             <p className="text-sm text-gray-400 mb-4">
-              Your trusted platform for finding verified properties in Jharkhand. Buy, sell, or rent with confidence.
+              Your trusted platform for finding verified properties. Buy, sell, or rent with confidence.
             </p>
             <div className="flex items-center gap-4 mb-6">
               <a href="#" className="p-2 bg-gray-800 rounded-full hover:bg-primary-600 transition-colors">
@@ -113,7 +113,7 @@ export function Footer() {
               </div>
               <div>
                 <p className="text-sm text-gray-500">Email us</p>
-                <p className="text-white font-medium">support@jharkhandproperty.com</p>
+                <p className="text-white font-medium">support@baraikbrotherproperty.com</p>
               </div>
             </div>
             <div className="flex items-center gap-3">
@@ -133,7 +133,7 @@ export function Footer() {
       <div className="border-t border-gray-800 bg-gray-950">
         <div className="max-w-7xl mx-auto px-4 py-4 flex flex-col md:flex-row items-center justify-between gap-2">
           <p className="text-sm text-gray-500">
-            2024 Jharkhand Property. All rights reserved.
+            2024 Baraik Brother Property. All rights reserved.
           </p>
           <div className="flex items-center gap-4">
             <Link href="/privacy" className="text-sm text-gray-500 hover:text-primary-400">

@@ -80,7 +80,7 @@ export default function RegisterPage() {
               <Home className="w-7 h-7 text-primary-600" />
             </div>
             <div>
-              <span className="text-2xl font-bold">Jharkhand</span>
+              <span className="text-2xl font-bold">Baraik Brother</span>
               <span className="text-2xl font-bold text-yellow-300">Property</span>
             </div>
           </Link>
@@ -92,7 +92,7 @@ export default function RegisterPage() {
             <br />journey today
           </h1>
           <p className="text-xl text-primary-100 max-w-md">
-            Create your free account and access verified properties across Jharkhand.
+            Create your free account and access verified properties across the region.
           </p>
 
           <div className="space-y-4">
@@ -126,7 +126,7 @@ export default function RegisterPage() {
                 <Home className="w-6 h-6 text-white" />
               </div>
               <div>
-                <span className="text-xl font-bold text-gray-900">Jharkhand</span>
+                <span className="text-xl font-bold text-gray-900">Baraik Brother</span>
                 <span className="text-xl font-bold text-primary-600">Property</span>
               </div>
             </Link>

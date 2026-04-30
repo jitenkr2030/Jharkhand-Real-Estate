@@ -331,7 +331,7 @@ export default function PropertyDetailPage() {
                         <p className="text-gray-600 leading-relaxed">{property.description}</p>
                       </div>
 
-                      {/* Jharkhand Specific */}
+                      {/* Property Features */}
                       <div>
                         <h3 className="text-lg font-semibold text-gray-900 mb-4">Location Features</h3>
                         <div className="grid grid-cols-2 gap-3">

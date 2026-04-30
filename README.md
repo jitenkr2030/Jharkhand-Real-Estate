@@ -1,6 +1,6 @@
-# Jharkhand Property - Real Estate Platform
+# Baraik Brother Property - Real Estate Platform
 
-A comprehensive full-stack real estate platform built with Next.js, specifically designed for the Jharkhand market.
+A comprehensive full-stack real estate platform built with Next.js, specifically designed for property buyers and sellers.
 
 ## Features
 
@@ -29,8 +29,8 @@ A comprehensive full-stack real estate platform built with Next.js, specifically
   - RERA compliance checking
   - Analytics dashboard
 
-### Jharkhand-Specific Features
-- **Hyperlocal Focus** (Ranchi, Jamshedpur, Dhanbad, etc.)
+### Baraik Brother Property-Specific Features
+- **Hyperlocal Focus** (Ranchi, Jamshedpur, Dhanbad, and surrounding areas)
 - **Properties within 1-5 km radius**
 - **Local Filters** (near school/hospital/railway station, near mining/industrial areas)
 - **Land & Plot Verification** (upload registry, khata papers)

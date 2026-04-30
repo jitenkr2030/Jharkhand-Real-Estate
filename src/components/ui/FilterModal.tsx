@@ -199,7 +199,7 @@ export function FilterModal({ isOpen, onClose, onApply }: FilterModalProps) {
             </div>
           </div>
 
-          {/* Jharkhand Specific - Nearby Features */}
+          {/* Locality Features */}
           <div>
             <h3 className="text-sm font-medium text-gray-700 mb-3">Near By</h3>
             <div className="space-y-3">

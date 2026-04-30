@@ -74,7 +74,7 @@ export function Header() {
               <Home className="w-6 h-6 text-white" />
             </div>
             <div className="hidden sm:block">
-              <span className="text-xl font-bold text-gray-900">Jharkhand</span>
+              <span className="text-xl font-bold text-gray-900">Baraik Brother</span>
               <span className="text-xl font-bold text-primary-600">Property</span>
             </div>
           </Link>

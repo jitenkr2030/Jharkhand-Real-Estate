@@ -42,7 +42,7 @@ export default function LoginPage() {
               <Home className="w-7 h-7 text-primary-600" />
             </div>
             <div>
-              <span className="text-2xl font-bold">Jharkhand</span>
+              <span className="text-2xl font-bold">Baraik Brother</span>
               <span className="text-2xl font-bold text-yellow-300">Property</span>
             </div>
           </Link>

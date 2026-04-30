@@ -88,7 +88,7 @@ export default function HomePage() {
             <div>
               <h1 className="text-4xl lg:text-5xl xl:text-6xl font-bold mb-6 leading-tight">
                 Find Your Perfect
-                <span className="block text-yellow-300">Property in Jharkhand</span>
+                <span className="block text-yellow-300">Property with Baraik Brothers</span>
               </h1>
               <p className="text-lg lg:text-xl text-primary-100 mb-8 max-w-xl">
                 Discover verified plots, apartments, villas, and agricultural land in Ranchi, Jamshedpur, Dhanbad, and more. Direct owner listings, RERA verified.

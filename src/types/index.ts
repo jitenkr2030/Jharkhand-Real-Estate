@@ -129,7 +129,7 @@ export interface Property {
   views: number;
   saves: number;
   
-  // Jharkhand Specific
+  // Local Area Features
   nearSchool: boolean;
   nearHospital: boolean;
   nearRailwayStation: boolean;

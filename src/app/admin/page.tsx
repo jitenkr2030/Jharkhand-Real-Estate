@@ -70,7 +70,7 @@ export default function AdminDashboardPage() {
               </div>
               <div>
                 <p className="font-semibold">Admin Panel</p>
-                <p className="text-xs text-gray-400">Jharkhand Property</p>
+                <p className="text-xs text-gray-400">Baraik Brother Property</p>
               </div>
             </div>
           </div>
